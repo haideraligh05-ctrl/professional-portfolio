@@ -36,3 +36,7 @@ The case studies are anonymized summaries of project experience. Sample workflow
 ## Core capabilities
 
 Business requirements and UAT · Operations governance · Excel and MIS reporting · Process controls and reconciliation · Workflow digitization · Stakeholder coordination
+
+## Project roadmap
+
+See the [public roadmap](ROADMAP.md) for published milestones and planned improvements to the portfolio and its demos.
