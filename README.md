@@ -16,6 +16,19 @@ The case studies are anonymized summaries of project experience. Sample workflow
 | [Salary validation workflow and benefits prototype](salary-validation-workflow.md) | Eligibility requirements and role-based workflow prototypes |
 | [Business operations dashboard requirements](operations-dashboard.md) | Executive reporting requirements, drill-down, and reconciliation |
 
+## Aligh Nexus Solutions projects
+
+| Case study | Stage |
+| --- | --- |
+| [Commercial approval and order tracking](commercial-workflow.md) | Local working prototype |
+| [Investment operations workflow MVP](investment-operations.md) | MVP implementation |
+| [Billing and receivables prototype](billing-receivables.md) | Browser prototype |
+| [Digital insurance platform discovery](digital-insurance-discovery.md) | Solution proposal |
+
+## Additional operations analytics
+
+[Business mix and shortfall planning](business-mix-planning.md) shows how an offline prototype compares pipeline scenarios against a target.
+
 ## Runnable example
 
 [Complaint SLA demo](SLA-DEMO.md) calculates deadline and status from synthetic complaint records. It illustrates queue reporting, exact-deadline handling, and validation of timestamps.
