@@ -8,11 +8,4 @@
 
 - Added automated regression tests and documented the expected output for the Python SLA demo.
 
-## Planned improvements
-
-| Item | Completion criteria |
-| --- | --- |
-| Billing and receivables | Create a public walkthrough with synthetic invoices and a partial payment. |
-| Business mix planning | Document a synthetic example showing how a limited pipeline leaves a residual shortfall. |
-
-Update this roadmap when a demo, case study, or milestone ships.
+- Published worked examples on [partial-payment reconciliation](billing-receivables.md#worked-example-partial-payment) and [pipeline shortfall](business-mix-planning.md#worked-example-limited-coverage).

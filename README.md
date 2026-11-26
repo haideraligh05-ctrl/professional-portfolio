@@ -8,6 +8,13 @@ I translate business requirements into reporting, process controls, and digital 
 - **Data and reporting** — [Business operations dashboard](operations-dashboard.md) covers KPI definitions, drill-downs, and reconciliation.
 - **Working sample** — [Complaint SLA demo](SLA-DEMO.md) includes runnable Python and synthetic records.
 
+## Worked examples
+
+| Example | What you can review |
+| --- | --- |
+| [Billing and receivables](billing-receivables.md#worked-example-partial-payment) | Reconcile a partial payment and verify when an invoice leaves the open queue. |
+| [Business mix planning](business-mix-planning.md#worked-example-limited-coverage) | Compare available pipeline with a target and calculate the remaining gap. |
+
 ## Insurance and takaful operations
 
 The case studies are anonymized summaries of project experience. Sample workflows and acceptance checks are independently written illustrations. The accompanying demo uses synthetic data.
