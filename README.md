@@ -1,11 +1,11 @@
 # Haider Rizvi | Operations & Digital Transformation Portfolio
 
-I work at the intersection of insurance operations, business analysis, and digital delivery. My focus is turning business rules into requirements, reporting definitions, acceptance criteria, and operating controls.
+I translate business requirements into reporting, process controls, and digital workflows. This portfolio brings together operations projects and Aligh Nexus Solutions work across commercial approvals, investment operations, billing, and insurance.
 
 ## Start here
 
-- **Operations governance** — [Unified payout controls](payout-controls.md) shows how approval, reconciliation, and traceability fit into one workflow.
-- **Digital delivery** — [Complaint CRM and SLA tracking](complaint-crm.md) shows how pilot UAT surfaced gaps in acknowledgement, escalation, and reopening.
+- **Workflow automation** — [Commercial approval and order tracking](commercial-workflow.md) follows work from technical review through delivery.
+- **Data and reporting** — [Business operations dashboard](operations-dashboard.md) covers KPI definitions, drill-downs, and reconciliation.
 - **Working sample** — [Complaint SLA demo](SLA-DEMO.md) includes runnable Python and synthetic records.
 
 ## Insurance and takaful operations
