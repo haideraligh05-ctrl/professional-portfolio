@@ -11,6 +11,11 @@ The case studies are anonymized summaries of project experience. Sample workflow
 | [Complaint CRM and SLA tracking](complaint-crm.md) | Workflow definition, pilot UAT, and defect reporting |
 | [Recruitment portal and assessment](recruitment.md) | Process digitization, assessment requirements, and rollout coordination |
 
+| [Offline performance letter generation](letter-generation.md) | Template mapping, offline workflow, and rendering QA |
+| [Adviser performance and hiring analytics](adviser-performance.md) | Cohort reporting, standalone dashboards, and validation |
+| [Salary validation workflow and benefits prototype](salary-validation-workflow.md) | Eligibility requirements and role-based workflow prototypes |
+| [Business operations dashboard requirements](operations-dashboard.md) | Executive reporting requirements, drill-down, and reconciliation |
+
 ## Runnable example
 
 [Complaint SLA demo](SLA-DEMO.md) calculates deadline and status from synthetic complaint records. It illustrates queue reporting, exact-deadline handling, and validation of timestamps.
