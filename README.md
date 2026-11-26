@@ -1,6 +1,14 @@
-# Haider Rizvi | Professional Portfolio
+# Haider Rizvi | Operations & Digital Transformation Portfolio
 
 I work at the intersection of insurance operations, business analysis, and digital delivery. My focus is turning business rules into requirements, reporting definitions, acceptance criteria, and operating controls.
+
+## Start here
+
+- **Operations governance** — [Unified payout controls](payout-controls.md) shows how approval, reconciliation, and traceability fit into one workflow.
+- **Digital delivery** — [Complaint CRM and SLA tracking](complaint-crm.md) shows how pilot UAT surfaced gaps in acknowledgement, escalation, and reopening.
+- **Working sample** — [Complaint SLA demo](SLA-DEMO.md) includes runnable Python and synthetic records.
+
+## Insurance and takaful operations
 
 The case studies are anonymized summaries of project experience. Sample workflows and acceptance checks are independently written illustrations. The accompanying demo uses synthetic data.
 
@@ -10,7 +18,6 @@ The case studies are anonymized summaries of project experience. Sample workflow
 | [Unified payout controls](payout-controls.md) | Requirements for data consolidation, approvals, reconciliation, and audit evidence |
 | [Complaint CRM and SLA tracking](complaint-crm.md) | Workflow definition, pilot UAT, and defect reporting |
 | [Recruitment portal and assessment](recruitment.md) | Process digitization, assessment requirements, and rollout coordination |
-
 | [Offline performance letter generation](letter-generation.md) | Template mapping, offline workflow, and rendering QA |
 | [Adviser performance and hiring analytics](adviser-performance.md) | Cohort reporting, standalone dashboards, and validation |
 | [Salary validation workflow and benefits prototype](salary-validation-workflow.md) | Eligibility requirements and role-based workflow prototypes |
